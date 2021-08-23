@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034875027617",
+    "firebase_url": "https://tour-ways-f3ea8-default-rtdb.firebaseio.com",
+    "project_id": "tour-ways-f3ea8",
+    "storage_bucket": "tour-ways-f3ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034875027617:android:5851dcae3a724605d5b0e0",
+        "android_client_info": {
+          "package_name": "com.kc.places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034875027617-v9a04i9l8u65olh9v3koriva4p4r0r75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1ZX37fu6WhhpaEb6UekRMBlj0N00RCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034875027617-v9a04i9l8u65olh9v3koriva4p4r0r75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

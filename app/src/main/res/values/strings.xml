@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">places</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="chethumail">chethankumblekar@gmail.com</string>
+    <string name="ujwalmail">ujwalkn2@gmail.com</string>
+    <string name="abinavmail">abhinavanand536@gmail.com</string>
+    <string name="preethammail">preetham.kodihalli@gmail.com</string>
+    <string name="github"><a href="https://github.com/kc015800">Chethan K</a></string>
+    <string name="githubujwal"><a href="https://github.com/ujwalkn">Ujwal K N</a></string>
+    <string name="description"><u>Description</u></string>
+    <string name="falls"><u>Water Falls</u></string>
+    <string name="sanctuaries"><u>Wildlife Sanctuaries</u></string>
+    <string name="beaches"><u>Beaches</u></string>
+    <string name="temples"><u>Temples</u></string>
+    <string name="viewpoints"><u>View Points</u></string>
+    <string name="palaces"><u>Palaces</u></string>
+
+    <string name="linkedin"><a href="https://www.linkedin.com/in/chethan-k-901078170/">chethan-k-901078170/</a></string>
+    <string name="linkedinujwal"><a href="https://www.linkedin.com/in/ujwal-k-n-2000/">ujwal-k-n-2000/</a></string>
+</resources>

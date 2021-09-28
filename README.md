@@ -14,4 +14,4 @@
 
 
 #LICENSE
-The project is licensed under the Apache License 2.0. Copyright <p>2021;copy Chethan K (kc015800)</p>
+The project is licensed under the Apache License 2.0. Copyright <p>2021 &copy; Chethan K (kc015800)</p>

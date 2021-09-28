@@ -20,5 +20,5 @@
 
 
 # LICENSE
-<p> The project is licensed under the Apache License 2.0. Copyright</p>
+<p> The project is <a href="https://github.com/kc015800/Greenland-Tourism-App/blob/master/LICENSE">licensed</a> under the Apache License 2.0. Copyright </p>
 <p>2021 &copy; Chethan K (kc015800)</p>

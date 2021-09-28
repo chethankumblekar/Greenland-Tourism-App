@@ -4,3 +4,6 @@
   
 
 <a href="https://drive.google.com/file/d/1njOQd-b0rDdCcrLkP4m_ZueSzMUi7pn3/view?usp=sharing">click here to download the project apk</a>
+
+
+[![Generic badge](https://img.shields.io/badge/version-1.0.0-<COLOR>.svg)](https://shields.io/)

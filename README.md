@@ -15,7 +15,7 @@
 
 
 # Here is glimpse on project
-<img src="https://drive.google.com/file/d/14HVcPbV7xUNZvy0l77G_EbF_rEvkI9kP/view?usp=sharing" width="40" height="40" />
+<img src="https://github.com/kc015800/Greenland-Tourism-App/blob/master/app%20demo%20500.gif" height="100%" width="800px" />
 
 
 

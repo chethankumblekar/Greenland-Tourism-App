@@ -7,3 +7,7 @@
 
 
 [![Generic badge](https://img.shields.io/badge/version-1.0.0-<COLOR>.svg)](https://shields.io/)
+
+
+[![Generic badge](https://img.shields.io/badge/minSDK-19-BLUE.svg)](https://shields.io/)
+
